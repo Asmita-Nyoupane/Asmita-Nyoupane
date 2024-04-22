@@ -3,8 +3,6 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src ="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on [Clothing Rental System](https://github.com/Asmita-Nyoupane/Clothing-rental-system)
-
 - 🌱 I’m currently studying **Bachelor in Computer Science and Information Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmita-Nyoupane](https://github.com/Asmita-Nyoupane)
