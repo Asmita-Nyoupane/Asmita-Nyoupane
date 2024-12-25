@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asmita-nyoupane" alt="asmita-nyoupane" /></a> </p>
+
 
 - 🌱 I completed **Bachelor in Computer Science and Information Technology**
 
